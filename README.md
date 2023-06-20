@@ -22,6 +22,6 @@ This project is a simple to-do list application implemented in [programming lang
 - Mark tasks as completed
 - Remove tasks
 
-Ta=ASK 3
+TASK 3
 
 # Flipkart Clone
